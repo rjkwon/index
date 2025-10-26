@@ -1,0 +1,10 @@
+baseURL = "https://index.kwon.nyc/"
+languageCode = "en-us"
+title = "index.kwon.nyc"
+theme = ""  
+
+# Disable Hugo features we don't need
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+[params]
+  description = "every page in my kwon(dot) ecosystem"
