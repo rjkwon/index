@@ -8,3 +8,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [params]
   description = "every page in my kwon(dot) ecosystem"
+
+[module]
+  # Disable theme/module lookup entirely
+  disable = true
