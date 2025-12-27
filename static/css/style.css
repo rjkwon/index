@@ -84,7 +84,7 @@ header {
 .content-section > h2::after {
     content: '';
     flex-grow: 1;
-    height: 2px;
+    height: 1px;
     background-color: var(--border-color);
 }
 
